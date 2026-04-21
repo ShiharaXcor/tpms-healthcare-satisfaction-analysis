@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints*
+.ipynb_checkpoints/
+*.pyc
+
+# Data files (large or sensitive)
+data/*.csv
+data/*.xlsx
+data/*.xls
+*.db
+
+# Reports / figures (optional, you may keep if needed)
+reports/figures/
+*.png
+*.jpg
+*.jpeg
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# OS generated files
+Thumbs.db
